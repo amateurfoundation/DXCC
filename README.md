@@ -1,2 +1,3 @@
 # DXCC
-DXCC lists and resources for dxpeditions 
+This is the repo for [dxcc.amateurfoundation.org](http://dxcc.amateurfoundation.org/)
+
