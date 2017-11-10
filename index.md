@@ -1,1 +1,1 @@
-# DXCC 
+# Amateur Foundation DXCC Guide
