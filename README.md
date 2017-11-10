@@ -1,4 +1,6 @@
 # DXCC
+
+![The Amateur Foundation](http://amateurfoundation.org/wp-content/uploads/2016/07/LargeBlackLogoTransparent-e1468275572773.png)
 About This Guide
 ================
 Part of The Amateur Foundation’s charter is to _“increase the accessibility of funds and information”_ for DXpedtions.  In addition to our Technology Package, we aim to improve the quantity and quality of information about licensing, travel, lodging, customs, radio operations, and local needs for DXCC entities.
